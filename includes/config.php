@@ -1,5 +1,5 @@
 <?php
-$PathPrefix = '../webERP/'; //path to main webERP installation
+$PathPrefix = '../KwaMoja/'; //path to main webERP installation
 
 $DatabaseName = 'weberpdemo';
 
